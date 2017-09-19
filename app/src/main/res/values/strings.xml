@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Retrofit Demo</string>
+    <string name="activity_two">Activity Two</string>
+</resources>
